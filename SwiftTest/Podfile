@@ -1,0 +1,5 @@
+platform:ios,'8.0'
+pod 'Masonry', '~> 0.6.3'
+use_frameworks!
+
+pod 'SnapKit', '~> 0.15.0'

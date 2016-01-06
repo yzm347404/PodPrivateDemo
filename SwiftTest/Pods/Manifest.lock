@@ -1,0 +1,13 @@
+PODS:
+  - Masonry (0.6.3)
+  - SnapKit (0.15.0)
+
+DEPENDENCIES:
+  - Masonry (~> 0.6.3)
+  - SnapKit (~> 0.15.0)
+
+SPEC CHECKSUMS:
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+
+COCOAPODS: 0.39.0
