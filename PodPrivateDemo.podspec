@@ -91,6 +91,9 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "Pod/Classes/**/*"
+  s.resource_bundles = {
+    'PPLib' => ['Pod/Assets/*.png']
+  }
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
