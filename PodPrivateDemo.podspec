@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = "Pod/Classes/**/*"
   s.resource_bundles = {
-    'PodPrivateDemo' => ['Pod/Assets/*.png']
+    'PodPrivateDemo' => ['**/*.png']
   }
   s.exclude_files = "Classes/Exclude"
 
